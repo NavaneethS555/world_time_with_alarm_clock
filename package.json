@@ -1,0 +1,22 @@
+{
+    "name": "my_package",
+    "description": "",
+    "version": "1.0.0",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node ./server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/NavaneethS555/world_time_with_alarm_clock.git"
+    },
+    "keywords": [],
+    "author": "",
+    "bugs": {
+        "url": "https://github.com/NavaneethS555/world_time_with_alarm_clock"
+    },
+    "homepage": "https://github.com/NavaneethS555/world_time_with_alarm_clock",
+    "dependencies": {
+        "express": "^4.18.2"
+    }
+}
