@@ -5,7 +5,7 @@ const port = 8080
 
 app.get('/', (req, res) => {
     // res.send('Hello World!')
-    res.sendFile(path.join(__dirname, "templates/index.html"))
+    res.sendFile(path.join(__dirname, "index.html"))
 })
 
 app.listen(port, () => {
